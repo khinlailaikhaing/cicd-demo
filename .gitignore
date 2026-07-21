@@ -482,3 +482,6 @@ $RECYCLE.BIN/
 *.swp
 
 login.json
+*.PublishSettings
+*publish-profile*
+*-profile.xml
